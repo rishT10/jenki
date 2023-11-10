@@ -1,0 +1,37 @@
+Web Technology-to create websites
+
+1)WWW(World Wide Web)
+2)Internet- is a massive network of network that contains millions of computers worldwide
+
+network-2 systems 
+	(1)wired-LAN (2)wireless 
+protocol-to manage communication between computer system
+1)syntax-what is being sent
+2)semantic-how is it being sent
+3)Timings-what timing it is being sent
+
+3)Web browser-is a application program for sending a request.
+4)web server
+5)URL(Uniforn Resource locator)
+	1)network protocol:HTTPS://
+	2)Host name:google.com
+	3)search query
+	https://www.google.com/searchq=afyt yt55wt y7 
+
+
+6)HTTP(HyperText Transfer Protocol)-is the language of web
+
+->HTML(Hyper Text markup Language)-to create web pages(static & dynamic)
+static-HTML 
+->HTML is used to define the basic structure of our web page.
+ 
+-> 3 different layers
+1)presentation layer(HTML,CSS)
+2)Business layer(behaviour of our web page)
+3)Data layer(from where file is retreiving)
+
+
+**HTML is the backbone of every web technology**
+
+
+
